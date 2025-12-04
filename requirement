@@ -1,0 +1,7 @@
+langchain-core
+langchain-openai
+langchain-community
+langchain
+pydantic
+httpx 
+tiktoken
